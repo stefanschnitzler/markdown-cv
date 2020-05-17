@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Stefan Schnitzler's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Stefan Schnitzler
+Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="stefanschnitzler@mailbox.org">stefanschnitzler@mailbox.org</a>
 </div>
 
 
