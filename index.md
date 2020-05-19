@@ -12,11 +12,19 @@ Software Engineer.
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
+Senior Full Stack Developer at 
+### Key Tasks/Archivements
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+##`1600`
+__bueroparallel GmbH__, Würzburg, Germany
+- Key Archievements/Tasks
+-- Warden
+-- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
 
 
 ### Research interests
