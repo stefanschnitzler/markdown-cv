@@ -1,23 +1,30 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Stefan Schnitzler's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Stefan Schnitzler
+Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="stefanschnitzler@mailbox.org">stefanschnitzler@mailbox.org</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
+Senior Full Stack Developer at 
+### Key Tasks/Archivements
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+##`1600`
+__bueroparallel GmbH__, Würzburg, Germany
+- Key Archievements/Tasks
+-- Warden
+-- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
 
 
 ### Research interests
